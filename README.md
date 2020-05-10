@@ -21,7 +21,6 @@ Ostensibly automated machine learning will help put ML capabilities into the han
 9. [Awesome AutoML Paper](https://github.com/hibayesian/awesome-automl-papers)
 10. [Labeling, transforming, and structuring training data sets for machine learning](https://www.oreilly.com/radar/podcast/labeling-transforming-and-structuring-training-data-sets-for-machine-learning/)
 11. [Data cleaning is a machine learning problem that needs data systems help!](http://wp.sigmod.org/?p=2288)
-12. 
 
 ## Papers
 1. [Show Your Work](https://arxiv.org/abs/1909.03004)
