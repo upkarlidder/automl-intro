@@ -24,7 +24,7 @@ Ostensibly automated machine learning will help put ML capabilities into the han
 
 ## Papers
 1. [Show Your Work](https://arxiv.org/abs/1909.03004)
-2. [Energy and Policy Considerations for Deep Learning in NLP]([TBD](https://arxiv.org/abs/1906.02243))
+2. [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)
 3. [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)
 
 
