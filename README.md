@@ -5,23 +5,28 @@ Ostensibly automated machine learning will help put ML capabilities into the han
 
 
 ## Links
-### [Replay](https://www.crowdcast.io/e/introduction-to-automl)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
-- [Workshop github](TBD)
+- [Webinar Replay](https://www.crowdcast.io/e/introduction-to-automl)
+- [Slides](assets/intro_automl.pdf)
 
 
 ## Additional Resources
-1. [Workshop github](TBD)
-1. [Workshop github](TBD)
-1. [Workshop github](TBD)
-1. [Workshop github](TBD)
+1. [Iris notebook](https://github.com/DerwenAI/ibm_dsc_automl/blob/master/iris.ipynb)
+2. [Why it’s hard to design fair machine learning models]([)](https://www.oreilly.com/radar/podcast/why-its-hard-to-design-fair-machine-learning-models/)
+3. [AI Trust](http://aif360.mybluemix.net/)
+4. [Removing Unfair Bias Part 1](https://youtu.be/a0bTPMvUJXI)
+5. [Removing Unfair Bias Part 2](https://youtu.be/k-rcMjDWsNY)
+6. [AI Explainability](http://aix360.mybluemix.net/)
+7. [ML Ops Day, OSCON 2019](https://ibm.biz/paco-oscon-1)
+8. [OSS related to AutoML](https://derwen.ai/s/fg9p)
+9. [Awesome AutoML Paper](https://github.com/hibayesian/awesome-automl-papers)
+10. [Labeling, transforming, and structuring training data sets for machine learning](https://www.oreilly.com/radar/podcast/labeling-transforming-and-structuring-training-data-sets-for-machine-learning/)
+11. [Data cleaning is a machine learning problem that needs data systems help!](http://wp.sigmod.org/?p=2288)
+12. 
+
+## Papers
+1. [Show Your Work](https://arxiv.org/abs/1909.03004)
+2. [Energy and Policy Considerations for Deep Learning in NLP]([TBD](https://arxiv.org/abs/1906.02243))
+3. [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)
 
 
 ## FAQs
