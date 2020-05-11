@@ -7,9 +7,11 @@ Ostensibly automated machine learning will help put ML capabilities into the han
 ## Links
 - [Webinar Replay](https://www.crowdcast.io/e/introduction-to-automl)
 - [Slides](assets/intro_automl.pdf)
+- [Code Examples](https://github.com/DerwenAI/ibm_dsc_automl)
 
 
 ## Additional Resources
+1. [Original AutoML notebook](https://ibm.biz/paco-automl-1)
 1. [Iris notebook](https://github.com/DerwenAI/ibm_dsc_automl/blob/master/iris.ipynb)
 2. [Why it’s hard to design fair machine learning models]([)](https://www.oreilly.com/radar/podcast/why-its-hard-to-design-fair-machine-learning-models/)
 3. [AI Trust](http://aif360.mybluemix.net/)
